@@ -1,0 +1,29 @@
+<UI version="4.0" >
+ <class>BasicOpenGLQtClass</class>
+ <widget class="QMainWindow" name="BasicOpenGLQtClass" >
+  <property name="objectName" >
+   <string notr="true">BasicOpenGLQtClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>BasicOpenGLQt</string>
+  </property>
+  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="BasicOpenGLQt.qrc"/>
+ </resources>
+ <connections/>
+</UI>
